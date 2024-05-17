@@ -1,0 +1,52 @@
+.style{
+    border: 1px groove ;
+    width: 400px;
+    margin: auto;
+    height: 550px;
+}
+.h2{
+    padding: auto;
+}
+.emai{
+    padding-left: 20px;
+    width: 300px;
+    margin-left: 50px;
+    box-sizing: border-box;
+    height: 50px;
+    border:1px groove whitesmoke;
+}
+.move{
+    margin-left: 50px;
+}
+.login{
+    width: 300px;
+    margin-left: 50px;
+    height: 50px;
+    border:1px groove wheat;
+    background-color: #7a00cc;
+    cursor: pointer;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 50px;
+    background-color: white;
+    border:  1px groove wheat;
+    
+}
+.icon2{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border:  1px groove wheat;
+    cursor: pointer;
+}
+.fa fa-facebook{
+    width: 50px;
+    height: 50x;
+    padding:auto;
+}
+
+
+
